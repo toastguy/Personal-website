@@ -3,4 +3,4 @@ layout: page
 title: About
 permalink: /about/
 ---
-UCLA David Geffen School of Medicine
+Student at David Geffen School of Medicine at UCLA
